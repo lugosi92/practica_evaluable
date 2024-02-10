@@ -1,3 +1,4 @@
 Realizar cambioisi 1 en el primer documento
 Realizando cambios en el documento 1 sobre git, comandos usados y aprendidos son Git status—> Estado actual del repositorio
 Git add . —> Agregar todos los archivos modificados-Git status—> Estado actual del repositoriob y mas comandos aprendidos.
+3.-Cambios en rama mirama clonana
