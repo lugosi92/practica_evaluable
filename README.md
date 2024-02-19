@@ -5,10 +5,10 @@ mkdir carpeta—> Crea directorio
 git init → iniciar repositorio
 
 Validar repositorios
-'git status'             # Estado actual del repositorio
-'git add .'              # Agrega todos los archivos modificados
-'git status'             # Estado actual del repositorio
-'git commit -m "Comentario"'  # Confirma los cambios realizados en los archivos (HEAD, apunta al último commit)
+`git status`             # Estado actual del repositorio
+`git add .`              # Agrega todos los archivos modificados
+`git status`           # Estado actual del repositorio
+`git commit -m "Comentario"`  # Confirma los cambios realizados en los archivos (HEAD, apunta al último commit)
 )
 Versiones creadas
 git log --oneline —> Muestra el historial de commits de manera resumida
