@@ -1,8 +1,8 @@
-**Directorios y Ficheros (Crear repositorio)**
-`echo "Contenido del archivo" > archivo.txt` → Añade texto y lo crea
-`touch archivo.txt`       # Crea un documento
-`mkdir carpeta`        # Crea un directorio
-`git init`               # Inicia un repositorio
+### 1.**Directorios y Ficheros (Crear repositorio)**
+- `echo "Contenido del archivo" > archivo.txt` → Añade texto y lo crea
+- `touch archivo.txt`       # Crea un documento
+- `mkdir carpeta`        # Crea un directorio
+- `git init`               # Inicia un repositorio
 
 
 **Validar repositorios**
