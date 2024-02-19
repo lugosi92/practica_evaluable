@@ -6,7 +6,7 @@
 
 
 ### 2.**Validar repositorios**
-- `git status`             # Estado actual del repositorio </u>
+- `git status`             # <u>Estado actual del repositorio </u>
 - `git add .`              # Agrega todos los archivos modificados
 - `git status`           # Estado actual del repositorio
 - `git commit -m "Comentario"`  # Confirma los cambios realizados en los archivos (HEAD, apunta al último commit)
