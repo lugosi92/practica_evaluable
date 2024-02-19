@@ -1,5 +1,5 @@
 Directorios y Ficheros (Crear repositorio)
-- echo "Contenido del archivo" > archivo.txt —> Añade texto y lo crea
+- `echo "Contenido del archivo" > archivo.txt` → Añade texto y lo crea
 touch archivo.txt —> Crea documento 
 mkdir carpeta—> Crea directorio
 git init → iniciar repositorio
