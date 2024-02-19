@@ -1,7 +1,10 @@
 ### 1.**Directorios y Ficheros (Crear repositorio)**
 
-`echo "Contenido del archivo" > archivo.txt` → Añade texto y lo crea
--```bash  `touch archivo.txt`       # Crea un documento
+```bash
+# Añade texto al archivo archivo.txt y lo crea si no existe
+echo "Contenido del archivo" > archivo.txt
+
+- `touch archivo.txt`       # Crea un documento
 - `mkdir carpeta`        # Crea un directorio
 - `git init`               # Inicia un repositorio
 
