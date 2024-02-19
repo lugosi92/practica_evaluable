@@ -1,16 +1,12 @@
 ### 1.**Directorios y Ficheros (Crear repositorio)**
-
-```bash
-# Añade texto al archivo archivo.txt y lo crea si no existe
-echo "Contenido del archivo" > archivo.txt
-
+- `echo "Contenido del archivo" > archivo.txt` → Añade texto y lo crea por ejemplo aqui
 - `touch archivo.txt`       # Crea un documento
 - `mkdir carpeta`        # Crea un directorio
 - `git init`               # Inicia un repositorio
 
 
 ### 2.**Validar repositorios**
-- `git status`             # Estado actual del repositorio
+- `git status`             # Estado actual del repositorio <u>
 - `git add .`              # Agrega todos los archivos modificados
 - `git status`           # Estado actual del repositorio
 - `git commit -m "Comentario"`  # Confirma los cambios realizados en los archivos (HEAD, apunta al último commit)
