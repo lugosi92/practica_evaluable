@@ -1,11 +1,3 @@
-Realizar cambios 1 en el primer documento
-2.-Cambios desde rama master
-Modificando documento 2 17
-Ejercicio18
-
-prueb 4
-
-Añadiendo modificciones conflicto
-prueb 2
-prueb 3
-
+Segunda linea del 26-02-24
+Linea nueva del 26-02-24
+Segunda linea del 26-02-24
